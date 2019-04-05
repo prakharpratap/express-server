@@ -9,6 +9,7 @@
   "author": "prakhar",
   "license": "ISC",
   "dependencies": {
+    "ejs": "^2.6.1",
     "nodemon": "^1.18.10"
   }
 }
