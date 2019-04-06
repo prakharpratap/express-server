@@ -12,7 +12,7 @@ if(req.method=='GET')
     var fileUrl;
     if(req.url=='/')
         {
-            fileUrl='/a.html';
+            fileUrl='/index.html';
         }
     else
             fileUrl=req.url;
